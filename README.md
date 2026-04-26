@@ -1,5 +1,5 @@
 
-# Actividad 6 - Comparación de Regularización en Redes Neuronales
+# Actividad 7 - Comparación de Regularización en Redes Neuronales
 DIEGO ALEJANDRO RUIZ ALFONSO - ppmurcia@ucundinamarca.edu.co 
 PEDRO PASCUAL MURCIA VARGAS - ppmurcia@ucundinamarca.edu.co 
 JHON EDUARD TINJACA CRUZ - jetinjaca@ucundinamarca.edu.co 
